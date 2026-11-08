@@ -5,11 +5,11 @@
 <h1 align="center">wazz</h1>
 
 <p align="center">
-  <a href="https://github.com/shawawah12-alt/wazz-editor-gxt/releases"><img src="https://img.shields.io/github/v/release/shawawah12-alt/wazz-editor-gxt?style=flat-square&color=2563eb" alt="Release"></a>
-  <a href="https://github.com/shawawah12-alt/wazz-editor-gxt/releases"><img src="https://img.shields.io/github/downloads/shawawah12-alt/wazz-editor-gxt/total?style=flat-square&color=16a34a" alt="Downloads"></a>
+  <a href="https://github.com/ZhawoilahID-Reborn/Wazz-android-gxt-editor/releases"><img src="https://img.shields.io/github/v/release/ZhawoilahID-Reborn/Wazz-android-gxt-editor?style=flat-square&color=2563eb" alt="Release"></a>
+  <a href="https://github.com/ZhawoilahID-Reborn/Wazz-android-gxt-editor/releases"><img src="https://img.shields.io/github/downloads/ZhawoilahID-Reborn/Wazz-android-gxt-editor/total?style=flat-square&color=16a34a" alt="Downloads"></a>
   <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
   <img src="https://img.shields.io/badge/GTA-III%20%7C%20VC%20%7C%20SA-f59e0b?style=flat-square" alt="GTA III, Vice City, San Andreas">
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/shawawah12-alt/wazz-editor-gxt?style=flat-square&color=64748b" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/ZhawoilahID-Reborn/Wazz-android-gxt-editor?style=flat-square&color=64748b" alt="License"></a>
 </p>
 
 Editor file GXT buat Android. gw buat biar kalau mau ganti teks GTA engga perlu
